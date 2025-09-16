@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Mohammed Almalki and I'm a CIS student from King Saud University</h3>
+<h3 align="left">I'm Mohammed Almalki, a CIS student at King Saud University.</h3>
 
 ###
 

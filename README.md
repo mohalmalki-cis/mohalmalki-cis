@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about building secure and smart systems.  <br>📚 Currently learning ethical hacking, machine learning, network+ and TryHackMe.  <br>🎯 Goal: start a career in cybersecurity or AI development after graduation.  <br>🧩 Fun fact: I love finding security flaws and fixing them.</p>
+<p align="left">✨ Passionate about Cybersecurity and data analysis.  <br>📚 Currently learning CyberSecurity, machine learning, network+ and TryHackMe.  <br>🎯 Goal: start a career in cybersecurity or AI development after graduation.  <br>🧩 Fun fact: I love finding security flaws and fixing them.</p>
 
 ###
 
